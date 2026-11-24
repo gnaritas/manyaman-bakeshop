@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manyaman-bakeshop-demo.up.railway.app/sitemap.xml
